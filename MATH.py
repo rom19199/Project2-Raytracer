@@ -3,6 +3,8 @@
 Created on Mon Nov  8 17:17:07 2021
 
 @author: hugo_
+
+librerias matemáticas
 """
 from collections import namedtuple
 
